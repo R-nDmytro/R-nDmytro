@@ -9,7 +9,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=#EF5B25)
 
 ## Follow Me
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=javaScript&logoColor=#0077b5)
-![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira&logoColor=47C5FB)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=47C5FB)
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=#EF5B25)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=#0077b5)
+![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram&logoColor=47C5FB)
+![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail)
+
