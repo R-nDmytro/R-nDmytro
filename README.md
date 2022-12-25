@@ -8,4 +8,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=#EF5B25)
 
-Follow Me
+## Follow Me
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=javaScript&logoColor=#0077b5)
+![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira&logoColor=47C5FB)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=47C5FB)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman&logoColor=#EF5B25)
