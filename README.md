@@ -3,7 +3,7 @@
 ## I am QA ENGINEER
 
 ### My CV
-[Link to my CV](https://docs.google.com/document/d/1UfYt3_AFIXhHn90CQHcW9HUnZwFA8XzF65A6IXcW3_0/edit?pli=1#heading=h.r64gcd837kby)
+[Link to my CV]()
 
 ## Language and Tools
 ![Jira](https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira&logoColor=47C5FB)
