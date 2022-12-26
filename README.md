@@ -21,3 +21,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=Telegram&logoColor=47C5FB)](https://t.me/DmytryiR)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail)](rahozin.dmytro@gmail.com)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-nDmytro&?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
